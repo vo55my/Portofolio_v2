@@ -112,3 +112,9 @@ body.light-mode .text-bg-light {
 #mode-toggle {
   background: none;
 }
+
+@media (max-width: 575.98px) {
+  .img-thumbnail {
+    width: 247.5px;
+  }
+}
